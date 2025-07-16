@@ -1,0 +1,3 @@
+r = 2 | fitted frequency = 0.015934 Hz
+r = 4 | fitted frequency = 0.015900 Hz
+r = 6 | fitted frequency = 0.015893 Hz
